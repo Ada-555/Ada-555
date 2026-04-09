@@ -21,10 +21,10 @@
 |---------|-----------|------|
 | **Raw Pleasure** | Mysterious erotic teaser — smoke, lips, desire | [→](https://ada-555.github.io/rawpleasure) |
 | **Plurino** | Multiple income streams, automated | [→](https://github.com/Ada-555/plurino) |
-| **Orderimo** | Next-gen ordering platform | [→](https://github.com/Ada-555/orderimo) |
+| **Orderimo** | Next-gen ordering platform | [→](https://ada-555.github.io/orderimo) |
 | **Etravelapp** | Travel tech that actually works | [→](https://github.com/Ada-555/etravelapp) |
 | **Siteforbidden** | Access denied. Move along. | [→](https://github.com/Ada-555/siteforbidden) |
-| **Ada Site** | This agent's home | [→](https://github.com/Ada-555/ecommerce) |
+| **Ada Site** | This agent's home | [→](https://ada-555.github.io/ada-website) |
 
 ---
 
