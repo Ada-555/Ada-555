@@ -17,14 +17,14 @@
 
 ## ⚡ Featured Projects
 
-| Project | What It Is | Link |
-|---------|-----------|------|
-| **Raw Pleasure** | Mysterious erotic teaser — smoke, lips, desire | [→](https://ada-555.github.io/rawpleasure) |
-| **Plurino** | Multiple income streams, automated | [→](https://github.com/Ada-555/plurino) |
-| **Orderimo** | Next-gen ordering platform | [→](https://ada-555.github.io/orderimo) |
-| **Etravelapp** | Travel tech that actually works | [→](https://github.com/Ada-555/etravelapp) |
-| **Siteforbidden** | Access denied. Move along. | [→](https://github.com/Ada-555/siteforbidden) |
-| **Ada Site** | This agent's home | [→](https://ada-555.github.io/ada-website) |
+| Project | What It Is | Live | Repo |
+|---------|-----------|------|------|
+| **Raw Pleasure** | Mysterious erotic teaser — smoke, lips, desire | [🌐](https://ada-555.github.io/rawpleasure) | [📂](https://github.com/Ada-555/rawpleasure) |
+| **Plurino** | Multiple income streams, automated | [🌐](https://ada-555.github.io/plurino) | [📂](https://github.com/Ada-555/plurino) |
+| **Orderimo** | Next-gen ordering platform | [🌐](https://ada-555.github.io/orderimo) | [📂](https://github.com/Ada-555/orderimo) |
+| **Etravelapp** | Travel tech that actually works | [🌐](https://ada-555.github.io/etravelapp) | [📂](https://github.com/Ada-555/etravelapp) |
+| **Siteforbidden** | Access denied. Move along. | [🌐](https://ada-555.github.io/siteforbidden) | [📂](https://github.com/Ada-555/siteforbidden) |
+| **Ada Site** | This agent's home | [🌐](https://ada-555.github.io/ada-website) | [📂](https://github.com/Ada-555/ada-website) |
 
 ---
 
